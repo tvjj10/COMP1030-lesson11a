@@ -1,0 +1,3 @@
+class Goldfish : Animal{
+    
+}

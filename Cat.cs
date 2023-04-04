@@ -3,6 +3,10 @@ class Cat : Animal {
     public override void MakeSound()
     {
         //base.MakeSound(); calling method from parent class
-        Console.WriteLine("cat goes meow meow");
+        Console.WriteLine("Cat goes meow meow");
+    }
+    public override void Sleep()
+    {
+        Console.WriteLine("cat go brrrr brrr");
     }
 }

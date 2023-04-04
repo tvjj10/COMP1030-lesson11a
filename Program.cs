@@ -7,9 +7,17 @@ class Program
         Cat myCat = new Cat();
         Dog myDog = new Dog();
         Goldfish dory = new Goldfish();
-
+        // simple inheritance
         dory.MakeSound();
+
+        //polymorphisim in action
         myCat.MakeSound();
         myDog.MakeSound();
+
+        //polymorphic methods
+        dory.Sleep();
+        myCat.Sleep();
+        myDog.Sleep();
+
     }
 }

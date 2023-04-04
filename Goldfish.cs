@@ -1,8 +1,7 @@
 class Goldfish : Animal{
     
-    public override void MakeSound()
+            public override void Sleep()
     {
-        //base.MakeSound(); calling method from parent class
-        Console.WriteLine("Goldfish goes blub blub");
+        Console.WriteLine("Goldfish go blub blub");
     }
 }

@@ -1,0 +1,15 @@
+D:\School\Comp1030-Programming Fund\Lesson 11\Polymorphisim\bin\Debug\net7.0\Polymorphisim.exe
+D:\School\Comp1030-Programming Fund\Lesson 11\Polymorphisim\bin\Debug\net7.0\Polymorphisim.deps.json
+D:\School\Comp1030-Programming Fund\Lesson 11\Polymorphisim\bin\Debug\net7.0\Polymorphisim.runtimeconfig.json
+D:\School\Comp1030-Programming Fund\Lesson 11\Polymorphisim\bin\Debug\net7.0\Polymorphisim.dll
+D:\School\Comp1030-Programming Fund\Lesson 11\Polymorphisim\bin\Debug\net7.0\Polymorphisim.pdb
+D:\School\Comp1030-Programming Fund\Lesson 11\Polymorphisim\obj\Debug\net7.0\Polymorphisim.csproj.AssemblyReference.cache
+D:\School\Comp1030-Programming Fund\Lesson 11\Polymorphisim\obj\Debug\net7.0\Polymorphisim.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Comp1030-Programming Fund\Lesson 11\Polymorphisim\obj\Debug\net7.0\Polymorphisim.AssemblyInfoInputs.cache
+D:\School\Comp1030-Programming Fund\Lesson 11\Polymorphisim\obj\Debug\net7.0\Polymorphisim.AssemblyInfo.cs
+D:\School\Comp1030-Programming Fund\Lesson 11\Polymorphisim\obj\Debug\net7.0\Polymorphisim.csproj.CoreCompileInputs.cache
+D:\School\Comp1030-Programming Fund\Lesson 11\Polymorphisim\obj\Debug\net7.0\Polymorphisim.dll
+D:\School\Comp1030-Programming Fund\Lesson 11\Polymorphisim\obj\Debug\net7.0\refint\Polymorphisim.dll
+D:\School\Comp1030-Programming Fund\Lesson 11\Polymorphisim\obj\Debug\net7.0\Polymorphisim.pdb
+D:\School\Comp1030-Programming Fund\Lesson 11\Polymorphisim\obj\Debug\net7.0\Polymorphisim.genruntimeconfig.cache
+D:\School\Comp1030-Programming Fund\Lesson 11\Polymorphisim\obj\Debug\net7.0\ref\Polymorphisim.dll
